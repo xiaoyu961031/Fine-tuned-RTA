@@ -20,7 +20,7 @@ perfect_hex_planar = np.array([
     [-1, np.sqrt(3), 0],
     [0, 2*np.sqrt(3), 0],
     [0, -2*np.sqrt(3), 0]
-]) / (2*np.sqrt(3)) #2
+]) #2
 perfect_octahedron = np.array([[1, 0, 0], [0, 1, 0], [0, 0, 1], [-1, 0, 0], [0, -1, 0], [0, 0, -1]])#3
 perfect_trp = np.array([
     [np.sqrt(3)/2, 0.5, 0.5],  # Top triangle vertex 1
