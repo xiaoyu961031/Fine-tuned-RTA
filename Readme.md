@@ -11,4 +11,4 @@ Data preprocessing pipelines and algorithms for in-silico synthesis and MOF cura
 In addition to the code and data provided here, the full set of over 94,823 precision-engineered MOFs (PE-MOFs) generated through this approach is available for download on Zenodo, which you can access here. https://zenodo.org/uploads/11480898
 
 If you use this in your work, please cite our related publication:
-Wu, X., Jiang, J. (2024). Precision-Engineered Metal-Organic Frameworks: Fine-Tuning Reverse Topological Structure Prediction and Design. Chemical Science, 2024, DOI: 10.1039/D4SC05616G 
+Wu, X., Jiang, J. (2024). Precision-engineered metal-organic frameworks: Fine-tuning reverse topological structure prediction and design. Chemical Science, 2024, DOI: 10.1039/D4SC05616G 
